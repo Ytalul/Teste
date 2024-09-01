@@ -1,0 +1,14 @@
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\bin\Debug\net6.0\RibeiraoPretoTeste.exe
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\bin\Debug\net6.0\RibeiraoPretoTeste.deps.json
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\bin\Debug\net6.0\RibeiraoPretoTeste.runtimeconfig.json
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\bin\Debug\net6.0\RibeiraoPretoTeste.dll
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\bin\Debug\net6.0\RibeiraoPretoTeste.pdb
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.AssemblyInfoInputs.cache
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.AssemblyInfo.cs
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.csproj.CoreCompileInputs.cache
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.dll
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\refint\RibeiraoPretoTeste.dll
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.pdb
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\RibeiraoPretoTeste.genruntimeconfig.cache
+C:\Users\ytalo\source\repos\RibeiraoPretoTeste\obj\Debug\net6.0\ref\RibeiraoPretoTeste.dll
